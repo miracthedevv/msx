@@ -4,7 +4,7 @@
         {
             "icon": "info",
             "label": "Hoşgeldiniz",
-            "data": "https://mirac6100.github.io/msx/data/welcome.json"
+            "data": "https://miracthdevv.github.io/msx/data/welcome.json"
         },
         {
             "type": "separator",
@@ -13,12 +13,12 @@
         {
             "icon": "movie",
             "label": "Canlı TV Kanalları (Güncel 2025)",
-            "data": "https://mirac6100.github.io/msx/data/base/canlitvkanallari.json"
+            "data": "https://miracthdevv.github.io/msx/data/base/canlitvkanallari.json"
         },
         {
             "icon": "music-note",
             "label": "(ÇOK YAKINDA) Canlı Radyo Kanalları",
-            "data": "https://mirac6100.github.io/msx/data/base/canliradyokanallari.json"
+            "data": "https://miracthdevv.github.io/msx/data/base/canliradyokanallari.json"
         },
         
         {
@@ -29,7 +29,7 @@
         {
             "icon": "tv",
             "label": "BETA-Televizyon Fonksiyonları",
-            "data": "https://mirac6100.github.io/msx/data/base/tvfonk.json"
+            "data": "https://miracthdevv.github.io/msx/data/base/tvfonk.json"
         },
 
         {
@@ -40,35 +40,35 @@
         {
             "image": "https://launcher.msx.benzac.de/assets/sc.png",
             "label": "SoundCloud for MSX",
-            "data": "https://mirac6100.github.io/msx/data/base/apps/scloud.json",
+            "data": "https://miracthdevv.github.io/msx/data/base/apps/scloud.json",
             "background": "https://images.fastcompany.com/image/upload/f_webp,c_fit,w_1920,q_auto/wp-cms-2/2025/05/p-91332060-soundcloud-AI-training.jpg"
         },
 
         {
             "image": "https://launcher.msx.benzac.de/assets/gd.png",
             "label": "Google Drive for MSX",
-            "data": "https://mirac6100.github.io/msx/data/base/apps/gdrive.json",
+            "data": "https://miracthdevv.github.io/msx/data/base/apps/gdrive.json",
             "background": "https://www.techinside.com/wp-content/uploads/2025/01/google-drive-logo-4.jpg.webp"
         },
 
         {
             "image": "https://launcher.msx.benzac.de/assets/od.png",
             "label": "OneDrive for MSX",
-            "data": "https://mirac6100.github.io/msx/data/base/apps/odrive.json",
+            "data": "https://miracthdevv.github.io/msx/data/base/apps/odrive.json",
             "background": "https://s.isanook.com/hi/0/ud/321/1605155/one-drive.jpg?ip/crop/w670h402/q80/jpg"
         },
 
         {
             "image": "https://images.seeklogo.com/logo-png/27/2/twitch-logo-png_seeklogo-274042.png",
             "label": "Twitch for MSX",
-            "data": "https://mirac6100.github.io/msx/data/base/apps/twitch.json",
+            "data": "https://miracthdevv.github.io/msx/data/base/apps/twitch.json",
             "background": "https://img-0.journaldunet.com/4XDkn0dLD7-KG4q3U7Xi-6S1jxg=/1500x/smart/8dad7a76d11c488e9a44bb04142589c5/ccmcms-jdn/34895692.jpg"
         },
 
         {
             "image": "https://kick.com/favicon.ico",
             "label": "(BETA) Kick",
-            "data": "https://mirac6100.github.io/msx/data/base/apps/kick.json",
+            "data": "https://miracthdevv.github.io/msx/data/base/apps/kick.json",
             "background": "https://streamhatchet.com/wp-content/uploads/2024/05/1-14-400x225.jpg"
         }
     ]
